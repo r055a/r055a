@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Adam
 
-### Statistics
+## Statistics
 
 ![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/overview.svg)
 ![](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)
 
-### Repositories
+## Repositories
 
 <!-- START: REPO-PINS -->
 <!-- END: REPO-PINS -->
